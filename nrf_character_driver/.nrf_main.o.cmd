@@ -1,0 +1,1 @@
+cmd_/home/pi/NRF24L01-Linux-device-driver-master/nrf_main.o := ld -EL    -r -o /home/pi/NRF24L01-Linux-device-driver-master/nrf_main.o /home/pi/NRF24L01-Linux-device-driver-master/nrf.o /home/pi/NRF24L01-Linux-device-driver-master/gpio.o /home/pi/NRF24L01-Linux-device-driver-master/radio.o 

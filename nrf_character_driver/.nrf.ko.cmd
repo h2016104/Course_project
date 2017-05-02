@@ -1,0 +1,1 @@
+cmd_/home/pi/NRF24L01-Linux-device-driver-master/nrf.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/pi/NRF24L01-Linux-device-driver-master/nrf.ko /home/pi/NRF24L01-Linux-device-driver-master/nrf.o /home/pi/NRF24L01-Linux-device-driver-master/nrf.mod.o
